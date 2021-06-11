@@ -1,0 +1,9 @@
+{
+  "name": "should-be-required",
+  "team": "should-be-required",
+  "system": "should-be-required",
+  "apiName": "should-be-required",
+  "apiDefinition": "http://api.example.com",
+  "hasAPI": "NO",
+  "project_slug": "backstage"
+}

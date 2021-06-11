@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: {{cookiecutter.apiName}}
+spec:
+  type: openapi
+  lifecycle: production
+  owner: {{cookiecutter.team}}
+  definition:
+    $text: {{cookiecutter.apiDefinition}}
